@@ -1,0 +1,129 @@
+{
+  "ShowToolbarsOnFloatingWindows": true,
+  "FindReplaceDialogOpacity": 0.7,
+  "HideInactiveToolbars": true,
+  "HideInactiveMenus": true,
+  "HideVersionNumber": false,
+  "Skin": "Visual Studio 2013 Blue",
+  "SkinPalette": "",
+  "WorkspaceSerializationVersion": 1,
+  "DaxscillaPreferences": {
+    "DaxFunctionDocumentationUrl": "https://dax.guide/{0}",
+    "CodeAssistPreferences": {
+      "PreselectFromPastUsage": true,
+      "ShowCalltips": true,
+      "CalltipsMode": 0,
+      "CalltipPosition": 0,
+      "KpiAutoCompleteMode": 1,
+      "AutoCompleteFilterMode": 2,
+      "AutoBraceEnabled": true,
+      "AutoIndentNewline": true,
+      "AutoFormatOnClose": true,
+      "CorrectObjectCasing": true,
+      "CorrectKeywordFunctionCasing": true,
+      "AutoDaxFormatting": true,
+      "FixQualifiers": true,
+      "AutoFormatEnabled": true,
+      "ShowAutoComplete": true,
+      "AutoCompleteMode": 1,
+      "AutoCompleteHandleDelete": true,
+      "AsyncAutoCompleteParsing": true,
+      "ShowNotRecommendedFunctions": false
+    },
+    "FormattingOptions": {
+      "IndentWidth": 4,
+      "ParenthesisSpacing": true,
+      "SpaceAfterFunction": false,
+      "UseTabs": false,
+      "AlwaysQuoteTables": true,
+      "AlwaysPrefixExtensionColumns": false
+    },
+    "DaxLocale": 0,
+    "UseHyphenComments": false,
+    "UseTabs": false,
+    "SemanticEngineFeatureOverrides": {
+      "AllowMultiColumnPredicates": "Default",
+      "AllowDirectionalCrossFilter": "Default",
+      "AllowDateLiterals": "Default",
+      "AllowCalculateShortcutMeasuresAndAggFunctions": "Default",
+      "AsEngineVersion": "Default"
+    },
+    "DaxFormatterDefault": 0,
+    "VisibleWhitespace": false,
+    "VisibleLineNumbers": true,
+    "VisibleCodeFolding": true,
+    "IndentationGuides": true
+  },
+  "SqlEditorPreferences": {
+    "VisibleWhitespace": false,
+    "VisibleLineNumbers": true,
+    "VisibleCodeFolding": true,
+    "UseTabs": false,
+    "IndentationGuides": true
+  },
+  "MEditorPreferences": {
+    "VisibleWhitespace": false,
+    "VisibleLineNumbers": true,
+    "VisibleCodeFolding": true,
+    "UseTabs": false,
+    "IndentationGuides": true
+  },
+  "CSharpEditorPreferences": {
+    "VisibleWhitespace": false,
+    "VisibleLineNumbers": true,
+    "VisibleCodeFolding": true,
+    "UseTabs": false,
+    "IndentationGuides": true
+  },
+  "EditorPreferences": {
+    "MultiPaste": true
+  },
+  "FindReplaceSettings": {
+    "MatchCase": false,
+    "WholeWord": false,
+    "AllowBackslash": false,
+    "AllowRegex": false,
+    "FindMru": [
+      "min",
+      "light",
+      "'Hex Num Percent'[Numeric Value]",
+      "'Hex Num Percent'[Hex Value]"
+    ],
+    "MaxRecentItems": 20
+  },
+  "ExplorerSettings": {
+    "ShowInfoColumns": true,
+    "ShowHiddenObjects": true,
+    "ShowMeasures": true,
+    "ShowHierarchies": true,
+    "ShowColumns": true,
+    "ShowPartitions": true,
+    "ShowDisplayFolders": true,
+    "InfoColumns": {
+      "Name": {
+        "Index": 0,
+        "Width": 411
+      },
+      "ObjectType": {
+        "Index": 1,
+        "Width": 49
+      },
+      "FormatString": {
+        "Index": 2,
+        "Width": 49
+      },
+      "DataType": {
+        "Index": 3,
+        "Width": 49
+      },
+      "Expression": {
+        "Index": 4,
+        "Width": 49
+      },
+      "Description": {
+        "Index": 5,
+        "Width": 49
+      }
+    }
+  }
+}

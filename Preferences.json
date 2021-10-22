@@ -1,0 +1,131 @@
+{
+  "UI_DockLayout": null,
+  "Deployment": {
+    "DeployDataSources": false,
+    "DeployPartitions": false,
+    "DeployRefreshPolicyPartitions": false,
+    "DeployModelRoles": false,
+    "DeployModelRoleMembers": false
+  },
+  "DataBrowsing": {
+    "AutoRefreshDataPreview": true,
+    "AutoRefreshPivotGrid": true,
+    "AutoExecuteDaxQuery": true,
+    "DirectQueryMaxRows": 100,
+    "DaxQueryMaxRows": 1000
+  },
+  "DefaultSaveMode": "AlwaysAsk",
+  "DaxFormatterRequestTimeout": 5000,
+  "DaxFormatterConsent": true,
+  "CheckForUpdatesOnStartup": true,
+  "CheckForUpdatesMajorOnly": false,
+  "VertiPaqAnalyzerIncludeTom": true,
+  "VertiPaqAnalyzerReadStatsFromData": true,
+  "VertiPaqAnalyzerSampleRI": 3,
+  "CollectTelemetry": true,
+  "FormulaFixup": true,
+  "PbiModelsAddDaxLineBreak": false,
+  "PbiModelsAddDaxLineBreakMultiLineOnly": true,
+  "AllowUnsupportedPBIFeatures": true,
+  "HidePBIAutoDateTimeWarnings": false,
+  "WarnWhenMetadataOutOfSync": true,
+  "ChangeDetectionOnLocalServers": true,
+  "AutoRefreshTomTree": true,
+  "BackgroundBpa": true,
+  "BackupLocation": "",
+  "AnnotateDeploymentMetadata": false,
+  "SendErrorReports": true,
+  "SchemaCompare_IgnoreImport": false,
+  "SchemaCompare_IgnoreDataTypeChanges": false,
+  "SchemaCompare_IgnoreDescriptionChanges": false,
+  "SchemaCompare_IgnoreDecimalToDoubleChanges": false,
+  "DaxScripting_UseCommentsAsSeparators": true,
+  "PrioritizeAnalysisServicesSchemaDetector": false,
+  "IgnoreLineageTags": false,
+  "IgnoreInferredObjects": true,
+  "IgnoreInferredProperties": true,
+  "IgnoreTimestamps": true,
+  "IgnorePrivacySettings": false,
+  "SplitMultilineStrings": true,
+  "UsePbixFileNameWhenSavingToDisk": true,
+  "CreateUserOptionsForNewModels": true,
+  "ProxyUseSystem": true,
+  "ProxyAddress": "",
+  "ProxyUser": "",
+  "ProxyPasswordEncrypted": "",
+  "ScriptCompilerDirectoryPath": "",
+  "ScriptCompilerOptions": "",
+  "SaveToFolder_PrefixFiles": false,
+  "SaveToFolder_LocalRelationships": false,
+  "SaveToFolder_LocalPerspectives": false,
+  "SaveToFolder_LocalTranslations": false,
+  "SaveToFolder_UseRecommendedSettings": true,
+  "Copy_IncludeTranslations": false,
+  "Copy_IncludePerspectives": true,
+  "Copy_IncludeRLS": true,
+  "Copy_IncludeOLS": true,
+  "Perspectives_InheritForNewObjects": false,
+  "Perspectives_InheritForRelocatedObjects": false,
+  "Perspectives_InheritTableAdd": true,
+  "Perspectives_InheritTableRemove": true,
+  "View_DisplayFolders": true,
+  "View_HiddenObjects": false,
+  "View_AllObjectTypes": true,
+  "View_SortAlphabetically": true,
+  "View_Measures": true,
+  "View_Columns": true,
+  "View_Hierarchies": true,
+  "View_Partitions": true,
+  "View_MetadataInformation": false,
+  "SaveToFolder_Levels": [
+    "Data Sources",
+    "Shared Expressions",
+    "Perspectives",
+    "Relationships",
+    "Roles",
+    "Tables",
+    "Tables/Columns",
+    "Tables/Hierarchies",
+    "Tables/Measures",
+    "Tables/Partitions",
+    "Tables/Calculation Items",
+    "Translations"
+  ],
+  "View_ColumnPreferences": [
+    {
+      "Name": "Name",
+      "Width": 150,
+      "Visible": true
+    },
+    {
+      "Name": "Parent",
+      "Width": 100,
+      "Visible": true
+    },
+    {
+      "Name": "Type",
+      "Width": 80,
+      "Visible": true
+    },
+    {
+      "Name": "Format",
+      "Width": 50,
+      "Visible": true
+    },
+    {
+      "Name": "Data type",
+      "Width": 60,
+      "Visible": true
+    },
+    {
+      "Name": "Source",
+      "Width": 100,
+      "Visible": true
+    },
+    {
+      "Name": "Description",
+      "Width": 100,
+      "Visible": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Tabular Editor Unhandled Exception Error Report
+===============================================
+Tabular Editor version: 3.1.4 (3.1.7950.37747)
+OS version: Microsoft Windows NT 10.0.19043.0
+Model details: 
+		CompatibilityLevel: 1550
+	CompatibilityMode: PowerBI
+	IsPbiDesktop: True
+	SourceType: Database
+	TableCount: 7
+	FirstTimeModelLoad: False
+	DatabaseNameSHA256: 69b99371eb69f88a30d879d202d27e9e084b0cc0d6cd7c8c
+	ServerVersion: 15.1.110.21
+	ServerLocation: OnPremise
+	ServerProductLevel: RTM
+	ServerProductName: Microsoft SQL Server Analysis Services
+	ServerEdition: Enterprise64
+	ServerNameSHA256: b5a4d5580cf667420f1c1bf487f9bada65203bc8ecafa2c6
+User description: 
+Exception message: Object reference not set to an instance of an object.
+Exception source: TabularEditor3
+Stack trace:    at TabularEditor.UI.Utils.UILinker.WorkspaceFormClosed(Object sender, FormClosedEventArgs e)
+   at System.Windows.Forms.Form.OnFormClosed(FormClosedEventArgs e)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at DevExpress.XtraEditors.XtraForm.WndProc(Message& msg)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+Modules loaded: 
+		tabulareditor3.exe
